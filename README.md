@@ -1,2 +1,2 @@
 # FMML_2022_0069
-IIT-H ML course assignment and projects
+IIIT-H ML course assignment and projects
